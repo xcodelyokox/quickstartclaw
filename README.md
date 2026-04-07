@@ -31,20 +31,11 @@ Follow the prompts to create a Unix username and password.
 
 ## Quick Start
 
-Open your Ubuntu/WSL terminal and run:
+Open your WSL terminal and run:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/xcodelyokox/quickstartclaw/main/openclaw-amd.sh | bash
 ```
-
-Or pass the LM Studio URL explicitly:
-
-```bash
-LMSTUDIO_BASE_URL=http://172.20.0.1:1234 \
-curl -fsSL https://raw.githubusercontent.com/xcodelyokox/quickstartclaw/main/openclaw-amd.sh | bash
-```
-
----
 
 ## What the script automates
 
