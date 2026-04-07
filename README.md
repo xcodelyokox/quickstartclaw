@@ -1,4 +1,4 @@
-# OpenClaw on AMD — LM Studio + WSL2 Quick Start
+# Windows OpenClaw on AMD — LM Studio + WSL2 Quick Start
 
 This repo collapses the WSL2 + LM Studio + OpenClaw setup into a single command. LM Studio runs natively on Windows with GPU offload; OpenClaw runs inside WSL2 and connects to LM Studio over the LAN.
 
