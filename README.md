@@ -24,6 +24,7 @@ Restart your machine if prompted, then run:
 wsl --install -d Ubuntu-24.04
 ```
 Follow the prompts to create a Unix username and password.
+
 3. For AMD Ryzen AI Max+ systems: Variable Graphics Memory set to 96GB 
 
 ---
